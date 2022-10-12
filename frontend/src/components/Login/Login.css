@@ -1,0 +1,36 @@
+.login-container {
+    background-color: bisque;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.login-card-container {
+    width: 450px;
+    height: 300px;
+    border: 2px solid gray !important;
+    border-radius: 15px;
+    background-color: ivory;
+}
+
+.input-login {
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    height: 30px;
+    width: 250px !important;
+    margin-top: 15px !important;
+}
+
+.changeHover:hover {
+    background-color: white;
+    color: black;
+}
+
+.image-style {
+    position: fixed;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+}
