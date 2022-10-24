@@ -35,23 +35,32 @@ class Login extends Component<Props, State>{
             <div className='login-container'>
                 <img className='image-style' src={this.state.backgroundURL} />
                 <CCard className='login-card-container'>
-                    <CCardHeader>
+                    <CCardHeader style={{ backgroundColor: 'ivory' }}>
                         <h1>
-                            Login
+                            Acessar
                         </h1>
                     </CCardHeader>
-                    <CCardBody>
+                    <CCardBody style={{ backgroundColor: 'ivory' }}>
                         <CRow className='d-flex justify-content-center input-row'>
-                            <input className='input-login' type='text' onChange={(e) => this.changeUser(e)} value={this.state.user} />
+                            <input className='input-login' type='text' onChange={(e) => this.changeUser(e)} value={this.state.user} placeholder='Digite seu Email' />
                         </CRow>
                         <CRow className='d-flex justify-content-center input-row'>
-                            <input className='input-login' type='password' onChange={(e) => this.changePass(e)} value={this.state.password} />
+                            <input className='input-login' type='password' onChange={(e) => this.changePass(e)} value={this.state.password} placeholder='Digite sua Senha' />
                         </CRow>
                     </CCardBody>
-                    <CCardFooter>
-                        <CButton className='changeHover' color="warning">
-                            Entrar
-                        </CButton>
+                    <CCardFooter style={{ backgroundColor: 'ivory' }}>
+                        <CRow>
+                            <CCol sm={6} className='d-flex justify-content-start'>
+                                <CButton color='link'>
+                                    Primeira vez?
+                                </CButton>
+                            </CCol>
+                            <CCol sm={6} className='d-flex justify-content-end'>
+                                <CButton className='changeHover'>
+                                    Entrar
+                                </CButton>
+                            </CCol>
+                        </CRow>
                     </CCardFooter>
                 </CCard>
             </div>
