@@ -1,0 +1,77 @@
+D:\Code\HotelCode\Hotel\BackEnd\HotelApi\HotelApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Code\HotelCode\Hotel\BackEnd\HotelApi\HotelApi\bin\Debug\net6.0\appsettings.json
+D:\Code\HotelCode\Hotel\BackEnd\HotelApi\HotelApi\bin\Debug\net6.0\HotelApi.exe
+D:\Code\HotelCode\Hotel\BackEnd\HotelApi\HotelApi\bin\Debug\net6.0\HotelApi.deps.json
+D:\Code\HotelCode\Hotel\BackEnd\HotelApi\HotelApi\bin\Debug\net6.0\HotelApi.runtimeconfig.json
+D:\Code\HotelCode\Hotel\BackEnd\HotelApi\HotelApi\bin\Debug\net6.0\HotelApi.dll
+D:\Code\HotelCode\Hotel\BackEnd\HotelApi\HotelApi\bin\Debug\net6.0\HotelApi.pdb
+D:\Code\HotelCode\Hotel\BackEnd\HotelApi\HotelApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Code\HotelCode\Hotel\BackEnd\HotelApi\HotelApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Code\HotelCode\Hotel\BackEnd\HotelApi\HotelApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Code\HotelCode\Hotel\BackEnd\HotelApi\HotelApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Code\HotelCode\Hotel\BackEnd\HotelApi\HotelApi\obj\Debug\net6.0\HotelApi.csproj.AssemblyReference.cache
+D:\Code\HotelCode\Hotel\BackEnd\HotelApi\HotelApi\obj\Debug\net6.0\HotelApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\HotelCode\Hotel\BackEnd\HotelApi\HotelApi\obj\Debug\net6.0\HotelApi.AssemblyInfoInputs.cache
+D:\Code\HotelCode\Hotel\BackEnd\HotelApi\HotelApi\obj\Debug\net6.0\HotelApi.AssemblyInfo.cs
+D:\Code\HotelCode\Hotel\BackEnd\HotelApi\HotelApi\obj\Debug\net6.0\HotelApi.csproj.CoreCompileInputs.cache
+D:\Code\HotelCode\Hotel\BackEnd\HotelApi\HotelApi\obj\Debug\net6.0\HotelApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Code\HotelCode\Hotel\BackEnd\HotelApi\HotelApi\obj\Debug\net6.0\HotelApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\HotelCode\Hotel\BackEnd\HotelApi\HotelApi\obj\Debug\net6.0\staticwebassets\msbuild.HotelApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Code\HotelCode\Hotel\BackEnd\HotelApi\HotelApi\obj\Debug\net6.0\staticwebassets\msbuild.build.HotelApi.props
+D:\Code\HotelCode\Hotel\BackEnd\HotelApi\HotelApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HotelApi.props
+D:\Code\HotelCode\Hotel\BackEnd\HotelApi\HotelApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HotelApi.props
+D:\Code\HotelCode\Hotel\BackEnd\HotelApi\HotelApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Code\HotelCode\Hotel\BackEnd\HotelApi\HotelApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Code\HotelCode\Hotel\BackEnd\HotelApi\HotelApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Code\HotelCode\Hotel\BackEnd\HotelApi\HotelApi\obj\Debug\net6.0\scopedcss\bundle\HotelApi.styles.css
+D:\Code\HotelCode\Hotel\BackEnd\HotelApi\HotelApi\obj\Debug\net6.0\HotelApi.csproj.CopyComplete
+D:\Code\HotelCode\Hotel\BackEnd\HotelApi\HotelApi\obj\Debug\net6.0\HotelApi.dll
+D:\Code\HotelCode\Hotel\BackEnd\HotelApi\HotelApi\obj\Debug\net6.0\refint\HotelApi.dll
+D:\Code\HotelCode\Hotel\BackEnd\HotelApi\HotelApi\obj\Debug\net6.0\HotelApi.pdb
+D:\Code\HotelCode\Hotel\BackEnd\HotelApi\HotelApi\obj\Debug\net6.0\HotelApi.genruntimeconfig.cache
+D:\Code\HotelCode\Hotel\BackEnd\HotelApi\HotelApi\obj\Debug\net6.0\ref\HotelApi.dll
+D:\Code\HotelCode\Hotel\BackEnd\HotelApi\HotelApi\bin\Debug\net6.0\Humanizer.dll
+D:\Code\HotelCode\Hotel\BackEnd\HotelApi\HotelApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Code\HotelCode\Hotel\BackEnd\HotelApi\HotelApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Code\HotelCode\Hotel\BackEnd\HotelApi\HotelApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Code\HotelCode\Hotel\BackEnd\HotelApi\HotelApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Code\HotelCode\Hotel\BackEnd\HotelApi\HotelApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Code\HotelCode\Hotel\BackEnd\HotelApi\HotelApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Code\HotelCode\Hotel\BackEnd\HotelApi\HotelApi\bin\Debug\net6.0\MySqlConnector.dll
+D:\Code\HotelCode\Hotel\BackEnd\HotelApi\HotelApi\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\lobys\Desktop\Nao Exclua\Hotel\Hotel\BackEnd\HotelApi\HotelApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lobys\Desktop\Nao Exclua\Hotel\Hotel\BackEnd\HotelApi\HotelApi\bin\Debug\net6.0\appsettings.json
+C:\Users\lobys\Desktop\Nao Exclua\Hotel\Hotel\BackEnd\HotelApi\HotelApi\bin\Debug\net6.0\HotelApi.exe
+C:\Users\lobys\Desktop\Nao Exclua\Hotel\Hotel\BackEnd\HotelApi\HotelApi\bin\Debug\net6.0\HotelApi.deps.json
+C:\Users\lobys\Desktop\Nao Exclua\Hotel\Hotel\BackEnd\HotelApi\HotelApi\bin\Debug\net6.0\HotelApi.runtimeconfig.json
+C:\Users\lobys\Desktop\Nao Exclua\Hotel\Hotel\BackEnd\HotelApi\HotelApi\bin\Debug\net6.0\HotelApi.dll
+C:\Users\lobys\Desktop\Nao Exclua\Hotel\Hotel\BackEnd\HotelApi\HotelApi\bin\Debug\net6.0\ref\HotelApi.dll
+C:\Users\lobys\Desktop\Nao Exclua\Hotel\Hotel\BackEnd\HotelApi\HotelApi\bin\Debug\net6.0\HotelApi.pdb
+C:\Users\lobys\Desktop\Nao Exclua\Hotel\Hotel\BackEnd\HotelApi\HotelApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\lobys\Desktop\Nao Exclua\Hotel\Hotel\BackEnd\HotelApi\HotelApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lobys\Desktop\Nao Exclua\Hotel\Hotel\BackEnd\HotelApi\HotelApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lobys\Desktop\Nao Exclua\Hotel\Hotel\BackEnd\HotelApi\HotelApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lobys\Desktop\Nao Exclua\Hotel\Hotel\BackEnd\HotelApi\HotelApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lobys\Desktop\Nao Exclua\Hotel\Hotel\BackEnd\HotelApi\HotelApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lobys\Desktop\Nao Exclua\Hotel\Hotel\BackEnd\HotelApi\HotelApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lobys\Desktop\Nao Exclua\Hotel\Hotel\BackEnd\HotelApi\HotelApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\lobys\Desktop\Nao Exclua\Hotel\Hotel\BackEnd\HotelApi\HotelApi\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\lobys\Desktop\Nao Exclua\Hotel\Hotel\BackEnd\HotelApi\HotelApi\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\lobys\Desktop\Nao Exclua\Hotel\Hotel\BackEnd\HotelApi\HotelApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lobys\Desktop\Nao Exclua\Hotel\Hotel\BackEnd\HotelApi\HotelApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lobys\Desktop\Nao Exclua\Hotel\Hotel\BackEnd\HotelApi\HotelApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lobys\Desktop\Nao Exclua\Hotel\Hotel\BackEnd\HotelApi\HotelApi\obj\Debug\net6.0\HotelApi.csproj.AssemblyReference.cache
+C:\Users\lobys\Desktop\Nao Exclua\Hotel\Hotel\BackEnd\HotelApi\HotelApi\obj\Debug\net6.0\HotelApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lobys\Desktop\Nao Exclua\Hotel\Hotel\BackEnd\HotelApi\HotelApi\obj\Debug\net6.0\HotelApi.AssemblyInfoInputs.cache
+C:\Users\lobys\Desktop\Nao Exclua\Hotel\Hotel\BackEnd\HotelApi\HotelApi\obj\Debug\net6.0\HotelApi.AssemblyInfo.cs
+C:\Users\lobys\Desktop\Nao Exclua\Hotel\Hotel\BackEnd\HotelApi\HotelApi\obj\Debug\net6.0\HotelApi.csproj.CoreCompileInputs.cache
+C:\Users\lobys\Desktop\Nao Exclua\Hotel\Hotel\BackEnd\HotelApi\HotelApi\obj\Debug\net6.0\HotelApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lobys\Desktop\Nao Exclua\Hotel\Hotel\BackEnd\HotelApi\HotelApi\obj\Debug\net6.0\HotelApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lobys\Desktop\Nao Exclua\Hotel\Hotel\BackEnd\HotelApi\HotelApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lobys\Desktop\Nao Exclua\Hotel\Hotel\BackEnd\HotelApi\HotelApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lobys\Desktop\Nao Exclua\Hotel\Hotel\BackEnd\HotelApi\HotelApi\obj\Debug\net6.0\scopedcss\bundle\HotelApi.styles.css
+C:\Users\lobys\Desktop\Nao Exclua\Hotel\Hotel\BackEnd\HotelApi\HotelApi\obj\Debug\net6.0\HotelApi.csproj.CopyComplete
+C:\Users\lobys\Desktop\Nao Exclua\Hotel\Hotel\BackEnd\HotelApi\HotelApi\obj\Debug\net6.0\HotelApi.dll
+C:\Users\lobys\Desktop\Nao Exclua\Hotel\Hotel\BackEnd\HotelApi\HotelApi\obj\Debug\net6.0\ref\HotelApi.dll
+C:\Users\lobys\Desktop\Nao Exclua\Hotel\Hotel\BackEnd\HotelApi\HotelApi\obj\Debug\net6.0\HotelApi.pdb
+C:\Users\lobys\Desktop\Nao Exclua\Hotel\Hotel\BackEnd\HotelApi\HotelApi\obj\Debug\net6.0\HotelApi.genruntimeconfig.cache
